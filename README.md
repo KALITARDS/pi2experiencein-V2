@@ -11,3 +11,10 @@ Desenvolvimento de um projeto de Programação no curso de Sistemas para Interne
  
  -Implantar sistemas web.
  
+# Tecnologias utilizadas:
+-Python 3.7
+
+-Frameword Django 2.2
+
+-Sistema operacional utilizado: Ubuntu
+ 
