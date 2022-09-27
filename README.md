@@ -1,6 +1,19 @@
 # ExperienceIN
 
 Desenvolvimento de um projeto de Programação no curso de Sistemas para Internet.
+ 
+# Tecnologias utilizadas:
+-Python 3.7
+
+-Frameword Django 2.2
+
+-Sistema operacional utilizado: Ubuntu
+
+# Para que o projeto será desenvolvido?
+Para entender melhor como o Django funciona e aprimorar os conhecimentos em Python..
+
+# O que será aprendido ao longo do projeto?
+Fazer aplicação web rapidamente com Django.
 
 # Habilidades que se esperam:
  -Relacionar técnicas de desenvolvimento web;
@@ -10,11 +23,7 @@ Desenvolvimento de um projeto de Programação no curso de Sistemas para Interne
  -Desenvolver sistemas web utilizando frameworks modernos;
  
  -Implantar sistemas web.
- 
-# Tecnologias utilizadas:
--Python 3.7
 
--Frameword Django 2.2
-
--Sistema operacional utilizado: Ubuntu
+# O que será desenvolvido?
+Um protótipo de uma rede social.
  
