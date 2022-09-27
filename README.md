@@ -26,4 +26,7 @@ Fazer aplicação web rapidamente com Django.
 
 # O que será desenvolvido?
 Um protótipo de uma rede social.
+
+# STATUS:
+Em desenvolvimento
  
