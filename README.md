@@ -4,11 +4,9 @@ Projeto desenvolvido para fins didáticos da matérias de Programação para Int
 ## 1.Tecnologias utilizadas:
 - Python 3.7
 - Frameword Django 2.2
-- Sistema operacional utilizado: Ubuntu
+- Sistema operacional utilizado: Ubuntu e Windows
 
-## 2.Link para a aplicação funcionando online: 
-https://youtu.be/WBPCMzxJTQk
-### - Link para a aplicação:
+### 2.Link para a aplicação:
 http://kalitasouza1.pythonanywhere.com/
 
 ## 3.Instruções para a implantação da aplicação:
