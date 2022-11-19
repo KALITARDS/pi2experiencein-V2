@@ -1,0 +1,28 @@
+{% extends 'base_usuario.html' %}
+
+{% block body %}
+
+	<form class="form-signin" role="form" action="{% url 'login' %}" method="post">
+		{% csrf_token %}
+
+		<h2 class="form-signin-heading">Login</h2>
+
+		<input type="text" name="username" id="id_username" class="form-control" placeholder="Nome" required autofocus>
+
+		<input type="password" name="password" id="id_password" class="form-control" placeholder="Senha" required>
+
+		<button class="btn btn-lg btn-primary btn-block" type="submit" value="Login">Login</button>
+
+		<input type="hidden" name="next" value="{{ next }}">
+
+		{% if form.errors %}
+			<div class="alert alert-danger">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+				Por favor, verifique o email e/ou senha informados.
+			</div>
+		{% endif %}
+
+		<a href="{% url 'registrar' %}">registre-se</a>
+	</form>
+
+{% endblock %}

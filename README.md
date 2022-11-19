@@ -1,32 +1,20 @@
-# ExperienceIN
+# experiencein
+Projeto desenvolvido para fins didáticos da matérias de Programação para Internet II (IFB - Campus Brasília).
 
-Desenvolvimento de um projeto de Programação no curso de Sistemas para Internet.
- 
-# Tecnologias utilizadas:
--Python 3.7
+## 1.Tecnologias utilizadas:
+- Python 3.7
+- Frameword Django 2.2
+- Sistema operacional utilizado: Ubuntu
 
--Frameword Django 2.2
+## 2.Link para a aplicação funcionando online: 
+https://youtu.be/WBPCMzxJTQk
+### - Link para a aplicação:
+http://kalitasouza1.pythonanywhere.com/
 
--Sistema operacional utilizado: Ubuntu
+## 3.Instruções para a implantação da aplicação:
+- Clone o repositório na sua máquina com o link: https://github.com/KALITARDS/experiencein.git
+- Logo após entre na pasta do projeto com o comando "cd experiencein".
+- Em seguida faça a migração para preparar a aplicação para trabalhar com o SQLite usando o comando " python manage.py migrate".
+- Depois rode a aplicação: python manage.py runserver.
+- E para acessar a nossa aplicação funcionando na web é só acessar o servidor: http://localhost:8000.
 
-# Para que o projeto será desenvolvido?
-Para entender melhor como o Django funciona e aprimorar os conhecimentos em Python..
-
-# O que será aprendido ao longo do projeto?
-Fazer aplicação web rapidamente com Django.
-
-# Habilidades que se esperam:
- -Relacionar técnicas de desenvolvimento web;
- 
- -Implementar APIs para aplicações web;
- 
- -Desenvolver sistemas web utilizando frameworks modernos;
- 
- -Implantar sistemas web.
-
-# O que será desenvolvido?
-Um protótipo de uma rede social.
-
-# STATUS:
-Em desenvolvimento
- 
